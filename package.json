@@ -1,0 +1,14 @@
+{
+  "name": "support-proxy-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@maxhub/max-bot-api": "0.2.2",
+    "sql.js": "^1.12.0",
+    "dotenv": "^16.4.5"
+  }
+}
